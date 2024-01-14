@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awyouss
-- 👀 I’m interested in learning Flutter and Dart and i work on project 
+- 👀 I’m interested in learning Codes i start in React, React native and Flutter and i work on project 
 - 😄 
-- ⚡ i want some good guys will help to fix some codes for me or help me with codes 
+- ⚡ Thanks 
 
 <!---
 Awyouss/Awyouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
