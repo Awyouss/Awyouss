@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **project soon i will annons on it**
 
-- 🌱 I’m currently learning **React, React native and Flutter.**
+- 🌱 I’m currently learning **Flutter.**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝  Looking for Support each others in **Flutter**
 
 - 📫 How to reach me **awyoussgroups@gmail.com**
 
