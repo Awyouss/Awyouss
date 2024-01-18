@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AwYouss</h1>
 <p align="center">
 
-<h3 align="center">Live in Sweden, I am learning Codes i start in React, React native and Flutter</h3>
+<h3 align="center">Live in Sweden, I am IT network and i love learning Codes</h3>
 
 - 🔭 I’m currently working on **project soon i will annons on it**
 
